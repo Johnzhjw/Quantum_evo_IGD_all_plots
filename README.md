@@ -6,6 +6,7 @@ Algorithms in comparison include: CCGDE3, CMODE, MOEA/D, MOEA/DVA, NSGA-II, LMOC
 
 This is the Supplementary Data for the following paper:
 
+```
 @article{CAO2020100697,
 title = "Quantum-enhanced multiobjective large-scale optimization via parallelism",
 journal = "Swarm and Evolutionary Computation",
@@ -18,3 +19,4 @@ author = "Bin Cao and Shanshan Fan and Jianwei Zhao and Po Yang and Khan Muhamma
 keywords = "Quantum mechanics, Multiobjective large-scale optimization, Quantum-inspired evolutionary algorithm (QIEA), Large-scale optimization",
 abstract = "Traditional quantum-based evolutionary algorithms are intended to solve single-objective optimization problems or multiobjective small-scale optimization problems. However, multiobjective large-scale optimization problems are continuously emerging in the big-data era. Therefore, the research in this paper, which focuses on combining quantum mechanics with multiobjective large-scale optimization algorithms, will be beneficial to the study of quantum-based evolutionary algorithms. In traditional quantum-behaved particle swarm optimization (QPSO), particle position uncertainty prevents the algorithm from easily falling into local optima. Inspired by the uncertainty principle of position, the authors propose quantum-enhanced multiobjective large-scale algorithms, which are parallel multiobjective large-scale evolutionary algorithms (PMLEAs). Specifically, PMLEA-QDE, PMLEA-QjDE and PMLEA-QJADE are proposed by introducing the search mechanism of the individual particle from QPSO into differential evolution (DE), differential evolution with self-adapting control parameters (jDE) and adaptive differential evolution with optional external archive (JADE). Moreover, the proposed algorithms are implemented with parallelism to improve the optimization efficiency. Verifications performed on several test suites indicate that the proposed quantum-enhanced algorithms are superior to the state-of-the-art algorithms in terms of both effectiveness and efficiency."
 }
+```

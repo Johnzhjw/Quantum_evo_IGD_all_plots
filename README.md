@@ -4,7 +4,7 @@ The evolutionary curves of the mean IGD indicator values of all algorithms on DT
 
 Algorithms in comparison include: CCGDE3, CMODE, MOEA/D, MOEA/DVA, NSGA-II, LMOCSO, LSMOF, WOF-SMPSO, DPCCMOEA, PMLEA-DE, PMLEA-QDE, PMLEA-jDE, PMLEA-QjDE, PMLEA-JADE, PMLEA-QJADE, PMLEA-PSO, and PMLEA-QPSO.
 
-This is the Supplementary data for the following paper:
+This is the Supplementary Data for the following paper:
 
 @article{CAO2020100697,
 title = "Quantum-enhanced multiobjective large-scale optimization via parallelism",

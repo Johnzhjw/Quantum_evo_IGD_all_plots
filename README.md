@@ -7,7 +7,9 @@ Algorithms in comparison include: CCGDE3, CMODE, MOEA/D, MOEA/DVA, NSGA-II, LMOC
 This is the Supplementary Data for the following paper:
 
 @article{CAO2020100697,
+
 title = "Quantum-enhanced multiobjective large-scale optimization via parallelism",
+
 journal = "Swarm and Evolutionary Computation",
 pages = "100697",
 year = "2020",
